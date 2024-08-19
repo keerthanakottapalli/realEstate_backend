@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/keerthanakottapalli/realEstate_backend#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3"
   }
 }
